@@ -1,5 +1,17 @@
 # How to Update WhatsApp Status   
 
+## Table of Contents
+- [How to Update WhatsApp Status](#how-to-update-whatsapp-status)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Benefits](#benefits)
+  - [Pricing](#pricing)
+  - [Updating Status on WhatsApp](#updating-status-on-whatsapp)
+    - [Updating AI Image as Status](#updating-ai-image-as-status)
+    - [Updating Photo or Video as Status](#updating-photo-or-video-as-status)
+  - [Managing WhatsApp Status](#managing-whatsapp-status)
+
+
 ## Introduction   
 
 WhatsApp **Status** lets you share photos, videos, GIFs, text, and voice updates with your contacts. The update disappears automatically after 24 hours.
